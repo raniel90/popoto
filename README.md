@@ -4,7 +4,7 @@ In the project directory, you can run:
 
 ### `yarn install or npm install`
 
-Install node_modules
+Install project dependencies.
 
 ### `npm start`
 
